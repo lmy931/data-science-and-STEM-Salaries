@@ -1,4 +1,4 @@
-## data science and STEM Salaries
+# Data science and STEM Salaries
 
 This jupyter notebook performs exploratory data analysis(EDA) on 62,000 salary records from top global companies. 
 
