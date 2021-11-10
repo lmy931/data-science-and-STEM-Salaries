@@ -1,4 +1,4 @@
-### Exploratory data analysis and clustering
+## data science and STEM Salaries
 
 This jupyter notebook performs exploratory data analysis(EDA) on 62,000 salary records from top global companies. 
 
@@ -12,7 +12,7 @@ This jupyter notebook performs exploratory data analysis(EDA) on 62,000 salary r
 - matplotlib
 
 
-### About dataset
+## About dataset
 
 **Context**
 
